@@ -1,3 +1,3 @@
 git is a free Software
 git is a distributed version control software
-gggg
+git has a mutable index called stage
